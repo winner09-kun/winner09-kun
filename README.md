@@ -105,7 +105,7 @@ STATUS     : 🟢 Currently Learning & Leveling Up
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/winner)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/winner09-kun)
 
 </div>
 
