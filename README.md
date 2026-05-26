@@ -76,30 +76,17 @@ STATUS     : 🟢 Currently Learning & Leveling Up
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=winner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=winner09-kun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winner&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winner09-kun&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=winner&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=winner09-kun&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🧭 QUEST LOG (Current Goals)
-
-```
-[ ACTIVE ]  📌 Kuasai Python untuk pemrograman backend
-[ ACTIVE ]  📌 Kuasai JavaScript untuk pengembangan web
-[ ACTIVE ]  📌 Tingkatkan skill UI/UX di Figma
-[ QUEUED ]  📋 Buat project portfolio pertama
-[ QUEUED ]  📋 Kontribusi ke proyek open source
-[ FUTURE ]  🔒 Full-stack Developer — LOCKED
-```
 
 ---
 
@@ -119,8 +106,6 @@ STATUS     : 🟢 Currently Learning & Leveling Up
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/winner)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 </div>
 
