@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=winner&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/winner)
+[![Profile Views](https://komarev.com/ghpvc/?username=winner09-kun&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/winner09-kun)
 &nbsp;
 [![Indonesia](https://img.shields.io/badge/🇮🇩-Indonesia-red?style=for-the-badge)](https://github.com/winner)
 
