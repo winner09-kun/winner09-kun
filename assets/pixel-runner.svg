@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-labelledby="title desc">
+  <title id="title">Winner's pixel quest</title>
+  <desc id="desc">Looping pixel runner: a cyan robot jumps over a violet obstacle beneath the stars. Decorative animation, not a playable game.</desc>
+  <defs>
+    <clipPath id="screen"><rect width="900" height="270" rx="16"/></clipPath>
+    <pattern id="stars" width="450" height="140" patternUnits="userSpaceOnUse">
+      <path d="M40 65h3v3h-3zM180 100h3v3h-3zM310 50h4v4h-4zM400 115h2v2h-2z" fill="#9d91c5"/>
+    </pattern>
+    <pattern id="city" width="450" height="100" patternUnits="userSpaceOnUse">
+      <path d="M0 100V65h40V35h45v65h30V50h55v50h40V15h50v85h20V60h60v40h30V40h50v60Z" fill="#211d38"/>
+      <path d="M52 50h8v8h-8zm75 15h8v8h-8zm98-35h8v8h-8zm0 20h8v8h-8zm160 5h8v8h-8z" fill="#493d70"/>
+    </pattern>
+    <pattern id="floor" width="100" height="40" patternUnits="userSpaceOnUse">
+      <path d="M10 24h20m35 10h15" stroke="#41375f" stroke-width="3"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#screen)">
+    <path fill="#0d1117" d="M0 0h900v270H0z"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="24s" repeatCount="indefinite"/>
+      <rect width="1350" height="150" fill="url(#stars)"/>
+    </g>
+    <circle cx="755" cy="87" r="23" fill="#c4b5fd"/>
+    <circle cx="766" cy="79" r="21" fill="#0d1117"/>
+    <g transform="translate(0 110)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="12s" repeatCount="indefinite"/>
+        <rect width="1350" height="100" fill="url(#city)"/>
+      </g>
+    </g>
+    <path d="M0 210H900V270H0Z" fill="#171426"/>
+    <path d="M0 211H900" stroke="#a78bfa" stroke-width="3"/>
+    <g transform="translate(0 214)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-100 0" dur=".4s" repeatCount="indefinite"/>
+        <rect width="1000" height="40" fill="url(#floor)"/>
+      </g>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="900 0" to="-100 0" dur="4s" repeatCount="indefinite"/>
+      <path d="M0 210v-28h8v-8h20v8h8v28" fill="#a78bfa"/>
+      <path d="M8 182h8v8H8zm16 12h8v8h-8z" fill="#ddd6fe"/>
+    </g>
+    <ellipse cx="216" cy="209" rx="25" ry="4" fill="#080a10" opacity=".7"/>
+    <g transform="translate(192 162)" shape-rendering="crispEdges">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 -57;0 -82;0 -57;0 0;0 0" keyTimes="0;.56;.63;.70;.77;.84;1" dur="4s" repeatCount="indefinite"/>
+        <path d="M4 4h32v4h4v24H0V8h4z" fill="#67e8f9"/>
+        <path d="M8 12h24v12H8z" fill="#142638"/>
+        <path d="M12 15h4v5h-4zm12 0h4v5h-4z" fill="#e0faff"/>
+        <path d="M8 32h24v8H8zM16 0h8v4h-8z" fill="#22b8cf"/>
+        <path d="M-8 29h16v6H-8z" fill="#a78bfa"/>
+        <g fill="#67e8f9">
+          <path d="M8 40h8v8H4v-4h4z">
+            <animate attributeName="d" values="M8 40h8v8H4v-4h4z;M8 40h8v4H8v-4h0z" dur=".3s" calcMode="discrete" repeatCount="indefinite"/>
+          </path>
+          <path d="M24 40h8v4h8v4H24z">
+            <animate attributeName="d" values="M24 40h8v4h0v0H24z;M24 40h8v4h8v4H24z" dur=".3s" calcMode="discrete" repeatCount="indefinite"/>
+          </path>
+        </g>
+      </g>
+    </g>
+    <g font-family="monospace" font-size="12" letter-spacing="2">
+      <text x="25" y="30" fill="#c4b5fd">WINNER / PIXEL QUEST</text>
+      <text x="875" y="30" text-anchor="end" fill="#67e8f9">RUN · JUMP · REPEAT</text>
+      <text x="450" y="255" text-anchor="middle" fill="#a6a2bb" font-size="10">NEXT LEVEL: KEEP LEARNING</text>
+    </g>
+  </g>
+</svg>

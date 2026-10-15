@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./img/winner-banner.svg" width="850" alt="WINNER — Code, design, repeat. Banner bertema terminal dengan bintang dan indikator animasi." />
+<img src="./assets/winner-banner.svg" width="850" alt="WINNER — Code, design, repeat. Banner bertema terminal dengan bintang dan indikator animasi." />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=600&height=55&lines=Hi%2C+I%27m+Winner.;Learning+Python+%26+JavaScript.;Turning+ideas+into+interfaces.;One+small+step%2C+every+day." width="600" alt="Hi, I'm Winner. Learning Python and JavaScript. Turning ideas into interfaces." />
 
@@ -20,7 +20,7 @@ Coding, desain, anime, dan ide yang belum selesai digambar.
 ### 🕹️ Choose your route
 
 <p align="center">
-<img src="./img/pixel-runner.svg" width="850" alt="Animasi pixel game looping: robot cyan berlari dan melompati rintangan di kota malam berwarna ungu." />
+<img src="./assets/pixel-runner.svg" width="850" alt="Animasi pixel game looping: robot cyan berlari dan melompati rintangan di kota malam berwarna ungu." />
 <br />
 <sub>🎮 A little pixel adventure — run, jump, keep learning.</sub>
 </p>
